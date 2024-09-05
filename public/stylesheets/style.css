@@ -15,14 +15,14 @@ html {
 /* main.handlebars main properties */
 main,
 .site-name {
-  background-color: #b8cba2;
+  background-color: #288cd3;
 }
 
 /* a href link button properties */
 a,
 .btn-no-style,
 #comment-subtitle {
-  color: #b8cba2;
+  color: #288cd3;
 }
 
 /* link hover properties */
@@ -40,7 +40,7 @@ a {
 
 /* button properties */
 button {
-  background-color: #225ca3;
+  background-color: #22a35e;
   border: 0;
   padding: 1%;
   color: white;
@@ -265,7 +265,7 @@ main {
 
 .form-heading h1,
 .form-heading h2 {
-  color: #b8cba2;
+  color: #2daac3;
 }
 
 .login-form,
