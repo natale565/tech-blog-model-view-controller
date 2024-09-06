@@ -20,4 +20,9 @@
 
 # Screenshots
 
-
+![image1](/images/Screenshot%202024-09-05%20at%2010.36.41 PM.png)
+![image2](/images/Screenshot%202024-09-05%20at%2010.36.48 PM.png)
+![image3](/images/Screenshot%202024-09-05%20at%2010.37.02 PM.png)
+![image4](/images/Screenshot%202024-09-05%20at%2010.37.48 PM.png)
+![image5](/images/Screenshot%202024-09-05%20at%2010.38.18 PM.png)
+![image6](/images/Screenshot%202024-09-05%20at%2010.38.31 PM.png)
